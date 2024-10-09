@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    width: 100%; 
+    overflow: hidden;
+    padding: 10px 20px;
+    position: relative;
+}
+
+.logo {
+    float: left; 
+}
+
+.nav-links {
+    text-align: center; 
+}
+
+.nav-links a {
+    margin: 0 15px; 
+    text-decoration: none;
+    color: #000;
+    display: inline-block; 
+}
+
+.signup_button {
+    float: right; 
+}
+
+.signup_button a {
+    text-decoration: none;
+    color: #000;
+}
