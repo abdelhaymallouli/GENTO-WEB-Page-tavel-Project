@@ -81,4 +81,3 @@ Feel free to submit a pull request or open an issue if you have suggestions for 
 For any questions, feel free to reach out:
 
 - GitHub: [@abdelhaymallouli](https://github.com/abdelhaymallouli)
-```
